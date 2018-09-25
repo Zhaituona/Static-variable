@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author elzat
+ *
+ */
+package StaticVariable;

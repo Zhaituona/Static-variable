@@ -1,0 +1,12 @@
+
+
+static / non static variable 
+
+non static variable 
+When we create a class,declare some variable using non static variable ,when we create an object under the testClass
+we can using these non static variable , if we create an outher object they will also can these variable , but non affect to the object,
+because non static variable belongs to object .if we change variable value , non affect to the object .
+
+static variable 
+When we create a class using or declare staic variable , then under the testclass using these static variable , then call this method ,using that variale 
+value , it will changed , beacuse static variable belongs to class .
